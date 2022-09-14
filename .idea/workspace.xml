@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db62b483-d2bd-4d5d-9826-9c4fb03c0a16" name="Changes" comment="" />
+    <list default="true" id="db62b483-d2bd-4d5d-9826-9c4fb03c0a16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsait/junit/exception/DineroInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsait/junit/models/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsait/junit/models/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/minsait/junit/models/CuentaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/minsait/junit/exception/DineroInsuficienteException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/minsait/junit/models/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/minsait/junit/models/Cuenta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/minsait/junit/models/CuentaTest$CuentaNombreSaldoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/minsait/junit/models/CuentaTest$CuentaOperacionesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/minsait/junit/models/CuentaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,22 +40,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Eg4sSSR9w2FZiM04VwNjxOZeVF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -45,7 +71,7 @@
       <recent name="com.minsait.junit.models" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas">
+  <component name="RunManager" selected="JUnit.com.minsait.junit.models in CursoJunit">
     <configuration name="CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CursoJunit" />
       <extension name="coverage">
@@ -125,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.minsait.junit.models in CursoJunit" />
         <item itemvalue="JUnit.CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas" />
         <item itemvalue="JUnit.CuentaTest$CuentaOperacionesTest.testTransferirEntreCuentas" />
         <item itemvalue="JUnit.CuentaTest.testRelacionBancoCuentas" />
         <item itemvalue="JUnit.CuentaTest" />
-        <item itemvalue="JUnit.com.minsait.junit.models in CursoJunit" />
       </list>
     </recent_temporary>
   </component>
@@ -144,8 +170,52 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="588f73a7-2146-4a1f-a22c-ae50a62ffa27">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="588f73a7-2146-4a1f-a22c-ae50a62ffa27" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CursoJunit$CuentaTest_CuentaOperacionesTest_testRelacionBancoCuentas.ic" NAME="CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas Coverage Results" MODIFIED="1663181711028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/CursoJunit$CuentaTest_CuentaOperacionesTest_testRelacionBancoCuentas.ic" NAME="CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas Coverage Results" MODIFIED="1663193816520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.minsait.junit.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CursoJunit$com_minsait_junit_models_in_CursoJunit.ic" NAME="com.minsait.junit.models in CursoJunit Coverage Results" MODIFIED="1663195530824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.minsait.junit.models.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/CursoJunit$CuentaTest_CuentaNombreSaldoTest_testSaldoCuenta.ic" NAME="CuentaTest$CuentaNombreSaldoTest.testSaldoCuenta Coverage Results" MODIFIED="1663178498698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
