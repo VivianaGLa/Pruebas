@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db62b483-d2bd-4d5d-9826-9c4fb03c0a16" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Eg4sSSR9w2FZiM04VwNjxOZeVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.minsait.junit.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas">
+    <configuration name="CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CursoJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minsait.junit.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minsait.junit.models.CuentaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.minsait.junit.models.CuentaTest$CuentaOperacionesTest" />
+      <option name="METHOD_NAME" value="testRelacionBancoCuentas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuentaTest$CuentaOperacionesTest.testTransferirEntreCuentas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CursoJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minsait.junit.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minsait.junit.models.CuentaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.minsait.junit.models.CuentaTest$CuentaOperacionesTest" />
+      <option name="METHOD_NAME" value="testTransferirEntreCuentas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuentaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CursoJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minsait.junit.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minsait.junit.models" />
+      <option name="MAIN_CLASS_NAME" value="com.minsait.junit.models.CuentaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuentaTest.testRelacionBancoCuentas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CursoJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minsait.junit.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minsait.junit.models" />
+      <option name="MAIN_CLASS_NAME" value="com.minsait.junit.models.CuentaTest" />
+      <option name="METHOD_NAME" value="testRelacionBancoCuentas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.minsait.junit.models in CursoJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CursoJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minsait.junit.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.minsait.junit.models" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas" />
+        <item itemvalue="JUnit.CuentaTest$CuentaOperacionesTest.testTransferirEntreCuentas" />
+        <item itemvalue="JUnit.CuentaTest.testRelacionBancoCuentas" />
+        <item itemvalue="JUnit.CuentaTest" />
+        <item itemvalue="JUnit.com.minsait.junit.models in CursoJunit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db62b483-d2bd-4d5d-9826-9c4fb03c0a16" name="Changes" comment="" />
+      <created>1663004102153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663004102153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CursoJunit$CuentaTest_CuentaOperacionesTest_testRelacionBancoCuentas.ic" NAME="CuentaTest$CuentaOperacionesTest.testRelacionBancoCuentas Coverage Results" MODIFIED="1663181711028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.minsait.junit.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CursoJunit$CuentaTest_CuentaNombreSaldoTest_testSaldoCuenta.ic" NAME="CuentaTest$CuentaNombreSaldoTest.testSaldoCuenta Coverage Results" MODIFIED="1663178498698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.minsait.junit.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CursoJunit$CuentaTest_testRelacionBancoCuentas.ic" NAME="CuentaTest.testRelacionBancoCuentas Coverage Results" MODIFIED="1663179377230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.minsait.junit.models.*</FILTER>
+    </SUITE>
+  </component>
+</project>
